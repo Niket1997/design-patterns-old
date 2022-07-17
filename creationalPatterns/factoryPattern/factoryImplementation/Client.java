@@ -13,7 +13,7 @@ public class Client {
         f16A.fly();
         System.out.println();
 
-        System.out.println("fly F16A");
+        System.out.println("fly F16B");
         f16B.fly();
         System.out.println();
     }
